@@ -1,0 +1,18 @@
+
+
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./lab\ 17.1/.bg-img1);
+}
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(/lab\ 17.1/.bg-img2);
+}
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./lab\ 17.1/.bg-img3);
+}
+
